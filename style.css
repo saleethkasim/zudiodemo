@@ -19,11 +19,36 @@ ul li a{
 
 }
 .nav-item{
-    padding: 0px;
-    margin-left: 160px;
+    padding: 2px;
+    margin-left: 60px;
 }
 a:hover{
     text-shadow: 2px 2px 2px;}
 .carousel-inner img{
     height: 550px;
 }
+element.style {
+}
+h5{
+    color: white;
+}
+.categ a{
+    color: yellow;
+}
+
+element.style {
+}
+@media (max-width: 749px)
+.slider-navigation {
+    left: 15px;
+}
+.slider-navigation {
+    position: fixed;
+    left: 76px;
+    top: 38%;
+    text-shadow: 2px;
+}
+
+
+
+
